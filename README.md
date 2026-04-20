@@ -1,10 +1,12 @@
 # Sql-builder
 This application is a lightweight SQL query builder written in C#. It generates SQL statements programmatically and it is designed to construct SQL queries and the query requirements are provided via a JSON file, which is parsed and converted into SQL.
 
-Example file:
+User need to download the template and provide text file path for generates SQL.
+
+Template file:
 https://github.com/kitlai5654/Sql-builder/blob/master/Template.txt
 
-JSON File Input Instruction
+# JSON File Input Instruction
 ```json
 {
   "from": {
