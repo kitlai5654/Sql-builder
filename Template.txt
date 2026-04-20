@@ -1,0 +1,41 @@
+{
+  "from": {
+    "table": "",
+    "alias": ""
+  },
+  "select": [
+    {
+      "table": "",
+      "column": ""
+    },
+    {
+      "table": "",
+      "column": "",
+      "alias": ""
+    }
+  ],
+  "joins": [
+    {
+      "type": "",
+      "table": "",
+      "alias": "",
+      "left": "",
+      "right": ""
+    }
+  ],
+  "where": {
+    "operator": "",
+    "conditions": [
+      {
+        "table": "",
+        "column": "",
+        "value": ""
+      },
+      {
+        "table": "",
+        "column": "",
+        "value": ""
+      }
+    ]
+  }
+}
